@@ -10,8 +10,10 @@
   - <img src="https://img.icons8.com/color/32/000000/c-sharp-logo.png" alt="C#" width="32"/> C#
   - <img src="https://img.icons8.com/color/32/000000/javascript.png" alt="Javascript" width="32"/> Javascript
   - <img src="https://img.icons8.com/color/512/python.png" alt="Python" width="32"/> Python
+  - <img src="https://img.icons8.com/color/512/kotlin.png" alt="Kotlin" width="32"/> Kotlin
   - <img src="https://img.icons8.com/color/32/000000/angularjs.png" alt="Angular" width="32"/> Angular
   - <img src="https://img.icons8.com/color/32/000000/react-native.png" alt="React" width="32"/> React / React Native
+  - <img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" alt="JPCompose" width="32"/> Jetpack Compose
   - <img src="https://img.icons8.com/color/32/000000/net-framework.png" alt="ASP.NET Core" width="32"/> ASP.NET Core
   - <img src="https://img.icons8.com/color/32/000000/nestjs.png" alt="NestJS" width="32"/> NestJS
   - <img src="https://img.icons8.com/color/512/mongodb.png" alt="MongoDB" width="32"/> MongoDB
