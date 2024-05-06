@@ -1,6 +1,6 @@
 ## 🙋‍♂️ About Me
 
-- Hi there! My name is Simon Malboeuf and I am a software engineering student at ÉTS in Montréal.
+- Hi there! My name is Simon Malboeuf and I am a software developer from Montreal.
 
 ## 💻 Skills
 
