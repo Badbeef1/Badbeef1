@@ -39,4 +39,5 @@
 ## 🤝 Sharing Knowledge and Contact Me ✉️
 - I am always looking for opportunities to learn and share my knowledge with others.
 - <a href="https://www.linkedin.com/in/simon-malboeuf-b2a272180/"><img src="https://img.icons8.com/color/512/linkedin-circled--v1.png" alt="linkedin" width="32"/></a>
+- <a href="https://twitter.com/MalboeufSimon"><img src="https://img.icons8.com/color/512/twitterx.png" alt="linkedin" width="32"/></a>
 - Thank you for visiting my profile!
